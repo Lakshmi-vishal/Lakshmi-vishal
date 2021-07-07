@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshmi-vishal
 - 👀 I’m interested in developing website 
-- 🌱 I’m currently learning C++, React, Vue
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me lakshmisuresh033@gmail.com 
 
 <!---
