@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshmi-vishal
 - 👀 I’m interested in developing website, Apps
-- 🌱 I’m currently front end coding skills
+- 🌱 I’m currently improving my front end coding skills
 - 📫 How to reach me lakshmivishal9496@gmail.com 
 
 <!---
